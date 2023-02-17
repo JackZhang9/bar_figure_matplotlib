@@ -1,0 +1,2 @@
+# bar_figure_matplotlib
+用matplotlib画条状图
